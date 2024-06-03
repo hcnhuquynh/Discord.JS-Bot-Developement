@@ -1,9 +1,0 @@
-{
-  "token": "YOUR_BOT_TOKEN_HERE",
-  "prefix": "!",
-
-  "activity": {
-    "streaming": false,
-    "game": "Minekwaft"
-  }
-}
